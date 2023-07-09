@@ -15,4 +15,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://deft-madeleine-5cda2b.netlify.app/)
+- Live Site URL: [netlify site](https://deft-madeleine-5cda2b.netlify.app/)
